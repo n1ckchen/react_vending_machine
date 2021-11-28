@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.727f2d68.chunk.css",
+    "main.js": "/static/js/main.da592bb2.chunk.js",
+    "main.js.map": "/static/js/main.da592bb2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f94d37e6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f94d37e6.js.map",
+    "static/js/2.a7e82a0b.chunk.js": "/static/js/2.a7e82a0b.chunk.js",
+    "static/js/2.a7e82a0b.chunk.js.map": "/static/js/2.a7e82a0b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.727f2d68.chunk.css.map": "/static/css/main.727f2d68.chunk.css.map",
+    "static/js/2.a7e82a0b.chunk.js.LICENSE.txt": "/static/js/2.a7e82a0b.chunk.js.LICENSE.txt",
+    "static/media/Chips.c7e44957.png": "/static/media/Chips.c7e44957.png",
+    "static/media/Soda.8db7d5c9.png": "/static/media/Soda.8db7d5c9.png",
+    "static/media/VendingMachine.ac92bb0d.png": "/static/media/VendingMachine.ac92bb0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f94d37e6.js",
+    "static/js/2.a7e82a0b.chunk.js",
+    "static/css/main.727f2d68.chunk.css",
+    "static/js/main.da592bb2.chunk.js"
+  ]
+}
