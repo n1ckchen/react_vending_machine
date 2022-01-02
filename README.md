@@ -57,6 +57,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 ### Advanced Configuration
 
+Springboard solution credit
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
